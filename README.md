@@ -1,2 +1,6 @@
 # newton-project-3
-tip calculator by using javascript
+Tip calculator by using javascript html & css
+
+Hostlink:-
+Github:-
+
